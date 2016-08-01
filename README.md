@@ -35,7 +35,7 @@ The following advanced user stories are optional but recommended:
 ## Video Walkthrough 
 Here's a walkthrough of the App:
 
-<img src='http://i.imgur.com/a/PO8z5.gif' title='App Video Walkthrough' width='' alt='App Video Walkthrough' />
+<img src='http://i.imgur.com/pArANcs.gif' title='App Video Walkthrough' width='' alt='App Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
