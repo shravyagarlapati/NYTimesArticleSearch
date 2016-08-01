@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NYTimesSearch</string>
+    <string name="hint">Enter the search query</string>
+    <string name="search">Search</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="select">Oldest</string>
+    <string name="pick_date">Pick date</string>
+</resources>
