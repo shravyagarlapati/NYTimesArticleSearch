@@ -27,7 +27,7 @@ The following advanced user stories are optional but recommended:
 * [X] Use the ActionBar SearchView or custom layout as the query box instead of an EditText. (1 point)
 * [X] User can share a link to their friends or email it to themselves. (1 point)
 * [] Replace Filter Settings Activity with a lightweight modal overlay. (2 points)
-* [] Improve the user interface and experiment with image assets and/or styling and coloring (1 to 3 points depending on the difficulty of UI improvements)
+* [X] Improve the user interface and experiment with image assets and/or styling and coloring (1 to 3 points depending on the difficulty of UI improvements)
 * [] Stretch: Use the RecyclerView with the StaggeredGridLayoutManager to display improve the grid of image results (see Picasso guide too). (2 points)
 * [] Stretch: For different news articles that only have text or have text with thumbnails, use Heterogenous Layouts with RecyclerView. (2 points)
 * [] User can **successfully add and remove items** from the todo list
